@@ -7,7 +7,7 @@ My focus is on understanding each project’s unique needs and translating them 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=Transforming+Ideas+Into+Reality;Full-Stack+Web+&+Mobile+Developer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=Transforming+Ideas+Into+Reality;Full-Stack+Web+Developer;Cross-Platform+App+Developer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
   
   <a href="https://kodbee.com"><img src="https://img.shields.io/badge/KodBee.com-00599C?style=flat-square&logo=google-chrome&logoColor=white" alt="KodBee" /></a>
   <a href="https://asopori.com"><img src="https://img.shields.io/badge/Asopori.com-1572B6?style=flat-square&logo=google-chrome&logoColor=white" alt="Asopori" /></a>
@@ -22,21 +22,21 @@ My focus is on understanding each project’s unique needs and translating them 
 
 ### 🛠️ Technology Stack
 
-**Backend & APIs** ![Laravel 11](https://img.shields.io/badge/Laravel_11-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
+**Backend** ![Laravel 11](https://img.shields.io/badge/Laravel_11-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
 ![Livewire 3](https://img.shields.io/badge/Livewire_3-%234e56a6.svg?style=flat-square&logo=livewire&logoColor=white) 
 ![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=json&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend (Web)** ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
+**Frontend** ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) 
 ![Livewire Volt](https://img.shields.io/badge/Volt_Components-4e56a6?style=flat-square&logo=livewire&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 
-**Mobile Development** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
+**Mobile App** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white) 
 
 **UI/UX & Design** ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
