@@ -13,7 +13,7 @@ My focus is on understanding each project’s unique needs and translating them 
   <a href="https://asopori.com"><img src="https://img.shields.io/badge/Asopori.com-1572B6?style=flat-square&logo=google-chrome&logoColor=white" alt="Asopori" /></a>
   <a href="https://play.google.com/store/apps/dev?id=8115665512097739965"><img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" /></a>
   <a href="https://wa.me/8801788068874"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:kodpro.com@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:kodbee.com@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://behance.net/kodbee"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://youtube.com/@trendz-time"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" /></a>
 </div>
@@ -38,11 +38,6 @@ My focus is on understanding each project’s unique needs and translating them 
 **Mobile Development** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white) 
-
-**DevOps & Architecture** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-0078D4?style=flat-square&logo=letsencrypt&logoColor=white)
-![Git CI/CD](https://img.shields.io/badge/Git_CI%2FCD-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 **UI/UX & Design** ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) 
