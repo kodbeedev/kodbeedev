@@ -1,152 +1,135 @@
-## Hi there, I'm Jahidul Islam (KodBee) 👋
-
 <div align="center">
-  <a href="https://kodbee.com" target="_blank">
-    <img src="https://kodbee.com/Kodbee.png" alt="KodBee Logo" width="180" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(21, 114, 182, 0.2); margin-bottom: 15px; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(21, 114, 182, 0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(21, 114, 182, 0.2)';">
-  </a>
-  <br>
-  <a href="https://kodbee.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-1572B6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A4D8C" alt="Portfolio Website">
-  </a>
-</div>
 
-<br>
+<img src="https://kodbee.com/Kodbee.png" alt="KodBee" width="160" />
 
-I'm a dedicated **Full-Stack Web Developer, Mobile App Developer, and UI/UX Designer** based in Bangladesh. With over **5 years of practical experience**, I specialize in building custom, scalable applications that don't just look visually stunning but also perform flawlessly. 
+<br/>
 
-My focus is on understanding each project's unique needs and translating them into high-quality digital solutions that perfectly align with the core vision. Whether you're a startup looking to establish a strong online presence or an established business wanting to scale with robust architecture, I'm here to deliver solutions that make a real difference.
+# Jahidul Islam · KodBee
 
----
+**Flutter & Android Developer · Full-Stack Web Engineer · Founder & CEO @ [Kodbee](https://kodbee.com)**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=1572B6&center=true&vCenter=true&width=800&lines=Transforming+Ideas+Into+Reality;Full-Stack+Web+Developer;Cross-Platform+App+Developer;Creative+UI%2FUX+Designer" alt="Typing SVG" />
-  
-  <a href="https://kodbee.com"><img src="https://img.shields.io/badge/KodBee.com-00599C?style=flat-square&logo=google-chrome&logoColor=white" alt="KodBee" /></a>
-  <a href="https://asopori.com"><img src="https://img.shields.io/badge/Asopori.com-1572B6?style=flat-square&logo=google-chrome&logoColor=white" alt="Asopori" /></a>
-  <a href="https://play.google.com/store/apps/dev?id=8115665512097739965"><img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" /></a>
-  <a href="https://wa.me/8801788068874"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:kodbee.com@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://behance.net/kodbee"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://youtube.com/@trendz-time"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+[![Portfolio](https://img.shields.io/badge/kodbee.com-0F6E56?style=flat-square&logo=google-chrome&logoColor=white)](https://kodbee.com)
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8115665512097739965)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/kodbee)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801788068874)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kodbee.com@gmail.com)
+
 </div>
 
 ---
 
-### 🛠️ Technology Stack
+## About Me
 
-**Backend** 
-![Laravel 11](https://img.shields.io/badge/Laravel_11-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) 
-![Livewire 3](https://img.shields.io/badge/Livewire_3-%234e56a6.svg?style=flat-square&logo=livewire&logoColor=white) 
-![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+I build **mobile apps and web applications** that are fast, scalable, and production-ready.
+
+**Mobile-first** — I specialize in **Flutter** (cross-platform iOS & Android) and **Java** (native Android), with apps live on the Google Play Store and Apple App Store.
+
+**Full-stack on the web** — Full-Stack Web Engineer specializing in **Laravel, Livewire, React, Next.js, and Node.js**. I build fast, secure, and scalable web applications with clean architecture, modern UI/UX, and robust REST APIs using PHP, JavaScript, TypeScript, MySQL, PostgreSQL, and MongoDB.
+
+I'm also the **Founder & CEO of [Kodbee](https://kodbee.com)** — a full-service digital agency in Bangladesh that has delivered **130+ projects** across mobile, web, UI/UX, graphic design, and digital marketing for 75+ clients worldwide.
+
+---
+
+## Tech Stack
+
+### 📱 Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 🌐 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=flat-square&logo=livewire&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=json&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
-**Frontend** 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) 
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) 
-![Livewire Volt](https://img.shields.io/badge/Volt_Components-4e56a6?style=flat-square&logo=livewire&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Mobile App** 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white) 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**UI/UX & Design** 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) 
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-
----
-
-### 📈 GitHub Dynamics
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kodbeedev&theme=transparent&hide_border=true&title_color=1572B6&text_color=888&icon_color=1572B6&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=kodbeedev&theme=transparent&hide_border=true&title_color=1572B6&text_color=888&icon_color=1572B6" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kodbeedev&theme=transparent&hide_border=true&title_color=1572B6&text_color=888&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true&title_color=1572B6&text_color=888" alt="Quote" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kodbeedev&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kodbeedev&label=Profile%20Views&color=1572B6&style=flat-square" alt="Profile Views" />
-</div>
+### 🎨 Design & UI/UX
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
-### 🌟 Connect With Me
+## Featured Projects
+
+| Project | Type | Stack | Status |
+|---|---|---|---|
+| [**Trueszy**](https://kodbee.com/portfolio/trueszy-hyperlocal-social-business-app) | Hyperlocal social & business app | Flutter · Firebase · REST API | ✅ Live on stores |
+| [**Asopori**](https://kodbee.com/portfolio/asopori-education-exam-cv-builder-app) | Education, exam & CV builder | Flutter · Laravel · MySQL | ✅ Live on Play Store |
+| [**FinServ Dashboard**](https://kodbee.com/portfolio/finserv-payments-dashboard) | Payments dashboard UI/UX | Figma · Next.js | ✅ Delivered |
+
+→ [View full portfolio at kodbee.com](https://kodbee.com/portfolio)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="10">
-    <tr>
-      <td align="center">
-        <a href="https://kodbee.com" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-1572B6?style=for-the-badge&logo=google-chrome&logoColor=white" width="140">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/kodbeedev" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="140">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/jahidul-islam-kodbee" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="140">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://facebook.com/kodbee" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="140">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://instagram.com/kodbee" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="140">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitter.com/kodbee" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="140">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://wa.me/8801788068874" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140">
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:kodbee.com@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="140">
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kodbeedev&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&text_color=444441&bg_color=ffffff&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kodbeedev&theme=default&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=0F6E56" width="48%" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodbeedev&layout=compact&theme=default&hide_border=true&title_color=0F6E56&text_color=444441&bg_color=ffffff" width="48%" alt="Top Languages" />
+
 </div>
 
-<br>
+---
+
+## Kodbee Agency
+
+> **[Kodbee](https://kodbee.com)** is the agency I founded and lead. Every service below is handled by a dedicated specialist — I personally own all mobile app development.
+
+| Service | What we deliver |
+|---|---|
+| 📱 Mobile App Development | Flutter (iOS + Android), Java Android, React Native |
+| 🌐 Web Development | Laravel, Next.js, React, Node.js — custom & SaaS |
+| 🎨 UI/UX Design | Figma prototypes, user flows, design systems |
+| ✏️ Graphic Design | Brand identity, marketing assets, visual design |
+| 📈 Digital Marketing | SEO, paid ads, social media growth |
+| 🔧 Maintenance & Support | Bug fixes, updates, performance optimization |
+
+**130+ projects · 75+ clients · 98% satisfaction · 2 months free support on every project**
+
+---
+
+## Connect
 
 <div align="center">
-  <details>
-    <summary><b>✨ Click for a surprise! ✨</b></summary>
-    <br>
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
-    <h3>Thanks for visiting my profile! 🚀</h3>
-    <p>Let's build something amazing together!</p>
-  </details>
+
+[![Portfolio](https://img.shields.io/badge/kodbee.com-0F6E56?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kodbee.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kodbee)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/sellers/kodbee)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kodbee)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kodbeedev)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KodBeeDev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801788068874)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodbee.com@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kodbeedev&label=Profile+Views&color=0F6E56&style=flat-square" alt="Profile Views" />
+<br/><br/>
+<sub>Open to remote contracts · Flutter & Android · Full-Stack Web · Based in Dhaka, Bangladesh</sub>
 </div>
