@@ -1,65 +1,77 @@
 <div align="center">
 
-<img src="https://kodbee.com/Kodbee.png" alt="KodBee" width="160" />
+<a href="https://kodbee.com">
+  <img src="https://kodbee.com/Kodbee.png" width="140" alt="Kodbee" />
+</a>
 
 <br/>
 
-# Jahidul Islam · KodBee
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0F6E56&center=true&vCenter=true&width=600&lines=Flutter+%26+Android+Developer;Full-Stack+Web+Engineer;Founder+%26+CEO+%40+Kodbee+Agency;Building+apps+that+ship+to+both+stores." alt="Typing SVG" />
+</a>
 
-**Flutter & Android Developer · Full-Stack Web Engineer · Founder & CEO @ [Kodbee](https://kodbee.com)**
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/kodbee.com-0F6E56?style=flat-square&logo=google-chrome&logoColor=white)](https://kodbee.com)
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8115665512097739965)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kodbee)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://fiverr.com/sellers/kodbee)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/kodbee)
+[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8115665512097739965)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801788068874)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kodbee.com@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I build **mobile apps and web applications** that are fast, scalable, and production-ready.
+Mobile app developer and full-stack web engineer with **5+ years of experience**, and Founder & CEO of **[Kodbee](https://kodbee.com)** — a full-service digital agency in Bangladesh.
 
-**Mobile-first** — I specialize in **Flutter** (cross-platform iOS & Android) and **Java** (native Android), with apps live on the Google Play Store and Apple App Store.
+**Mobile:** I specialize in Flutter (cross-platform iOS & Android) and Java (native Android). Apps I've built are live on the Google Play Store and Apple App Store — social platforms, ed-tech, fintech and more.
 
-**Full-stack on the web** — Full-Stack Web Engineer specializing in **Laravel, Livewire, React, Next.js, and Node.js**. I build fast, secure, and scalable web applications with clean architecture, modern UI/UX, and robust REST APIs using PHP, JavaScript, TypeScript, MySQL, PostgreSQL, and MongoDB.
+**Web:** Full-Stack Web Engineer specializing in Laravel, Livewire, React, Next.js, and Node.js. I build fast, secure, and scalable web applications with clean architecture, modern UI/UX, and robust REST APIs using PHP, JavaScript, TypeScript, MySQL, PostgreSQL, and MongoDB.
 
-I'm also the **Founder & CEO of [Kodbee](https://kodbee.com)** — a full-service digital agency in Bangladesh that has delivered **130+ projects** across mobile, web, UI/UX, graphic design, and digital marketing for 75+ clients worldwide.
+**Agency:** Through Kodbee, I lead a team of specialists covering web, UI/UX, design, and marketing — giving clients end-to-end delivery under one roof with a single point of accountability.
 
 ---
 
 ## Tech Stack
 
-### 📱 Mobile App Development
+**📱 Mobile**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 🌐 Backend & APIs
+**⚙️ Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=flat-square&logo=livewire&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=json&logoColor=white)
 
-### ⚛️ Frontend
+**⚛️ Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
 
-### 🗄️ Databases
+**🗄️ Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🎨 Design & UI/UX
+**🎨 Design & Tools**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
@@ -69,13 +81,13 @@ I'm also the **Founder & CEO of [Kodbee](https://kodbee.com)** — a full-servic
 
 ## Featured Projects
 
-| Project | Type | Stack | Status |
-|---|---|---|---|
-| [**Trueszy**](https://kodbee.com/portfolio/trueszy-hyperlocal-social-business-app) | Hyperlocal social & business app | Flutter · Firebase · REST API | ✅ Live on stores |
-| [**Asopori**](https://kodbee.com/portfolio/asopori-education-exam-cv-builder-app) | Education, exam & CV builder | Flutter · Laravel · MySQL | ✅ Live on Play Store |
-| [**FinServ Dashboard**](https://kodbee.com/portfolio/finserv-payments-dashboard) | Payments dashboard UI/UX | Figma · Next.js | ✅ Delivered |
+| Project | Stack | Description |
+|---|---|---|
+| [**Trueszy**](https://kodbee.com/portfolio/trueszy-hyperlocal-social-business-app) | Flutter · Firebase | Hyperlocal social & business app — feed, chat, marketplace, events. Live on Play Store & App Store. |
+| [**Asopori**](https://kodbee.com/portfolio/asopori-education-exam-cv-builder-app) | Flutter · Laravel · MySQL | Education platform — live exams, study hub, CV builder. Bilingual. Live on Play Store. |
+| [**FinServ Dashboard**](https://kodbee.com/portfolio/finserv-payments-dashboard) | Figma · Next.js | Full payments dashboard UI/UX — wireframes, high-fidelity mockups, interactive prototype. |
 
-→ [View full portfolio at kodbee.com](https://kodbee.com/portfolio)
+[→ View full portfolio](https://kodbee.com/portfolio)
 
 ---
 
@@ -83,12 +95,7 @@ I'm also the **Founder & CEO of [Kodbee](https://kodbee.com)** — a full-servic
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kodbeedev&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&text_color=444441&bg_color=ffffff&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kodbeedev&theme=default&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=0F6E56" width="48%" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodbeedev&layout=compact&theme=default&hide_border=true&title_color=0F6E56&text_color=444441&bg_color=ffffff" width="48%" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=kodbeedev&theme=transparent&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=0F6E56&sideLabels=666&dates=999&currStreakNum=0F6E56&sideNums=444" width="55%" alt="GitHub Streak" />
 
 </div>
 
@@ -96,40 +103,29 @@ I'm also the **Founder & CEO of [Kodbee](https://kodbee.com)** — a full-servic
 
 ## Kodbee Agency
 
-> **[Kodbee](https://kodbee.com)** is the agency I founded and lead. Every service below is handled by a dedicated specialist — I personally own all mobile app development.
+> I founded and lead [Kodbee](https://kodbee.com). I personally own all mobile app development. My in-house team handles everything else.
 
-| Service | What we deliver |
-|---|---|
-| 📱 Mobile App Development | Flutter (iOS + Android), Java Android, React Native |
-| 🌐 Web Development | Laravel, Next.js, React, Node.js — custom & SaaS |
-| 🎨 UI/UX Design | Figma prototypes, user flows, design systems |
-| ✏️ Graphic Design | Brand identity, marketing assets, visual design |
-| 📈 Digital Marketing | SEO, paid ads, social media growth |
-| 🔧 Maintenance & Support | Bug fixes, updates, performance optimization |
+| | Service | |
+|---|---|---|
+| 📱 | **Mobile App Development** | Flutter, Java Android, React Native |
+| 🌐 | **Web Development** | Laravel, Next.js, React, Node.js |
+| 🎨 | **UI/UX Design** | Figma, prototypes, design systems |
+| ✏️ | **Graphic Design** | Brand identity, visual assets |
+| 📈 | **Digital Marketing** | SEO, paid ads, social growth |
+| 🔧 | **Maintenance & Support** | Updates, fixes, performance |
 
-**130+ projects · 75+ clients · 98% satisfaction · 2 months free support on every project**
-
----
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/kodbee.com-0F6E56?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kodbee.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kodbee)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/sellers/kodbee)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kodbee)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kodbeedev)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KodBeeDev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801788068874)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodbee.com@gmail.com)
-
-</div>
+**130+ projects delivered · 75+ clients · 98% satisfaction · 2 months free support**
 
 ---
 
 <div align="center">
+
+**Available for remote contracts · Flutter & Android · Full-Stack Web**
+
+[![Email](https://img.shields.io/badge/info%40kodbee.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info@kodbee.com)
+[![X](https://img.shields.io/badge/KodBeeDev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KodBeeDev)
+[![Facebook](https://img.shields.io/badge/kodbeedev-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/kodbeedev)
+
 <img src="https://komarev.com/ghpvc/?username=kodbeedev&label=Profile+Views&color=0F6E56&style=flat-square" alt="Profile Views" />
-<br/><br/>
-<sub>Open to remote contracts · Flutter & Android · Full-Stack Web · Based in Dhaka, Bangladesh</sub>
+
 </div>
