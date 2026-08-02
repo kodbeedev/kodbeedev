@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/kodbee.com-0F6E56?style=flat-square&logo=google-chrome&logoColor=white)](https://kodbee.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kodbee)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://fiverr.com/sellers/kodbee)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://fiverr.com/kodbee)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://behance.net/kodbee)
 [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8115665512097739965)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801788068874)
